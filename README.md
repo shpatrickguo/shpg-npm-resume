@@ -9,5 +9,5 @@ Open Terminal and type:
 Make sure to have [Node](https://www.npmjs.com/get-npm) installed.
 
 ```
-  npx 
+  npx shpg-resume
 ```
