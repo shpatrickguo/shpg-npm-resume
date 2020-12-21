@@ -2,6 +2,10 @@
     "Education": [
       "Bachelor of Arts in Data Science: University of California, Berkeley. Aug 2017 - May 2021"
     ],
+    "Past Experience":[
+      "Full stack developer at IPTE - Ongoing", 
+      "Academic Intern for Computer Science at Univeristy of California, Berkeley - Summer 2018"
+    ],
     "Tech Skills": [
       "Python, R",
       "Java",
@@ -12,6 +16,22 @@
       "SQL",
       "Markdown",
       "Git, Terminal"
+    ],
+    "Libraries": [
+
+    ],
+    "Projects": [
+      "",
+      "The Enigma - decript a progressive substituion cypher by creating an enigma machine using OOP",
+      "Galaxies - recreate Simon Tatham's Galaxies puzzle game using model-view-controller design pattern", 
+      "Scheme Interpreter -  developed an interpreter for a subset of the Scheme language",
+      "Ants Vs. SomeBees - created a tower defense game called Ants Vs. SomeBees using functional and object-oriented programming paradigms",
+      "Yelp Maps - created a visualization of restaurant ratings using machine learning and the Yelp academic dataset",
+      "The Game of Hog - developed a simulator and multiple strategies for the dice game Hog using control statements and higher-order functions", 
+      "Classifying Movies - built and test a k-nearest-neighbors classifier",
+      "Crime & Puninshment - implemented and interpret a sign test",
+      "World Progress - data visualization and table manipulation"
+
     ],
     "Contact": [
       "https://www.linkedin.com/in/patrickguo/",
