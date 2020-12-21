@@ -1,6 +1,6 @@
 ## Online Resume published on NPM
 
-- Tutorial by [Maks Akymenko](https://css-tricks.com/how-to-build-your-resume-on-npm/) and [Jack Boberg](https://studioelsa.se/blog/open-source-oss-npx-business-card/)
+- Tutorials by [Maks Akymenko](https://css-tricks.com/how-to-build-your-resume-on-npm/) and [Jack Boberg](https://studioelsa.se/blog/open-source-oss-npx-business-card/)
 
 ## How to run it on your local machine!
 
