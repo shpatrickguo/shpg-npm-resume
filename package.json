@@ -1,0 +1,11 @@
+{
+    "name": "shpg-resume",
+    "version": "1.0.0",
+    "bin": {
+        "shpg-resume": "./index.js"
+    },
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "inquirer": "^7.3.3"
+    }
+}
