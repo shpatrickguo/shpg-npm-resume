@@ -18,6 +18,7 @@
       "Git, Terminal"
     ],
     "Projects": [
+      "IPTE - full stack development of an ecylopedia about transporation logistics",
       "Covid forecast - time series analysis report used to forecast new covid cases in the next 10 days",
       "Ham/Spam - create a classifier that can distinguish spam from ham emails",
       "Food safety - investigate restaurant food safety scores for restaurants in San Francisc",
