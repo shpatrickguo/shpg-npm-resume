@@ -18,6 +18,7 @@
       "Git, Terminal"
     ],
     "Projects": [
+      "Food Trucks Operation Location - using machine learnign to recomend food truck operation locations in San francisco during Covid-19",
       "IPTE - full stack development of an ecylopedia about transporation logistics",
       "Covid forecast - time series analysis report used to forecast new covid cases in the next 10 days",
       "Ham/Spam - create a classifier that can distinguish spam from ham emails",
