@@ -1,6 +1,6 @@
 {
     "name": "shpg-resume",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "Code for my online resume as an NPM package",
     "main": "index.js",
     "bin": {
