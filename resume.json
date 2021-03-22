@@ -3,19 +3,19 @@
       "Bachelor of Arts in Data Science: University of California, Berkeley. Aug 2017 - May 2021"
     ],
     "Relevant Experience":[
-      "Full stack developer at IPTE - Ongoing", 
+      "Data Science Intern at DaanMatch - Feb 2021 - Ongoing", 
+      "Full stack developer at IPTE - Aug 2020 - Ongoing", 
       "Academic Intern for Computer Science at Univeristy of California, Berkeley - Summer 2018"
     ],
     "Tech Skills": [
-      "Python, R",
-      "Java",
-      "HTML, CSS, Bootstrap",
-      "Javascript",
-      "Django",
-      "Node.js",
-      "SQL",
-      "Markdown",
-      "Git, Terminal"
+      "Python (NumPy, Pandas, SciKit-learn, Matplotlib, Seaborn, Django)",
+      "R, GIS, Java",
+      "HTML, CSS, Javascript",
+      "Node.js, Discord.js",
+      "SQL (SQLite3, MongoDB)",
+      "Time Series Forecasting",
+      "Git and version control",
+      "AWS, IBM Watson, Azure"
     ],
     "Projects": [
       "Game Theory and Behavioral Economics - Explore game theory and behavioral economics on how webcam placement influences perception and social coordination", 
